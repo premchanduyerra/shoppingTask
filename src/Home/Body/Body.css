@@ -1,0 +1,11 @@
+.body {
+    background-color: #b5f7d3;
+    /* height: 900px; */
+    /* background: linear-gradient(#6f8579, rgb(128, 196, 172)); */
+}
+
+.body_items {
+    padding-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}

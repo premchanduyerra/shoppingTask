@@ -1,0 +1,36 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #6fbb7e;
+    /* color: aliceblue; */
+}
+
+.header_logo {
+    margin: 2px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header_auth {
+    cursor: pointer;
+}
+
+
+.header_cartIcon {
+    cursor: pointer;
+}
+
+.header_logoImage {
+    height: 80px;
+}
+
+.header_cart {
+    display: flex;
+    align-items: center;
+}
+
+.header_cartItemsNumber {
+    margin-top: -25px;
+}
